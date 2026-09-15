@@ -544,8 +544,6 @@ github.com/libdns/huaweicloud v1.0.1 h1:TdfpPY//3/QPhEGCyvR8u2DTlGxzpyaIsqofH5kY
 github.com/libdns/huaweicloud v1.0.1/go.mod h1:lMHNSEqLZeuE4N28ytaqLZia3NPuaaz1ldAH/73bOQE=
 github.com/libdns/infomaniak v0.2.0 h1:TC3jP68Tnw4sAi87r1xNY4fPF5Cs5SPGbEkTWvXCmnc=
 github.com/libdns/infomaniak v0.2.0/go.mod h1:2RTkgFMLv45OPE8dwgFZKn4PKzECdVADdHdkIcbUZWE=
-github.com/libdns/inwx v0.3.1 h1:AZXlqU36Hl7RTRZf2xawxfwZ9Y120Xl0ZIozs7gsccU=
-github.com/libdns/inwx v0.3.1/go.mod h1:kUBDmTXFGY8BqpHRJOWQ+GYfFnJOeejKeJHhnVliUb8=
 github.com/libdns/ionos v1.2.0 h1:FQ2xQTBfsjc7aMArRBBCs9l48Squt76GHXbxDsqOKgw=
 github.com/libdns/ionos v1.2.0/go.mod h1:g/JYno/+VXdujTGPBDMDeCfeLF0PJyJynsCrFu+2EFQ=
 github.com/libdns/libdns v1.0.0-beta.1/go.mod h1:4Bj9+5CQiNMVGf87wjX4CY3HQJypUHRuLvlsfsZqLWQ=
@@ -690,6 +688,8 @@ github.com/onsi/gomega v1.33.1 h1:dsYjIxxSR755MDmKVsaFQTE22ChNBcuuTWgkUDSubOk=
 github.com/onsi/gomega v1.33.1/go.mod h1:U4R44UsT+9eLIaYRB2a5qajjtQYn0hauxvRm16AVYg0=
 github.com/oracle/oci-go-sdk/v65 v65.109.2 h1:epzga51qucVjF+8ci2oYYq+mi3cE0DACGmC139WecMM=
 github.com/oracle/oci-go-sdk/v65 v65.109.2/go.mod h1:8ZzvzuEG/cFLFZhxg/Mg1w19KqyXBKO3c17QIc5PkGs=
+github.com/orbit-online/libdns-inwx v0.0.0-20260317114442-e98697a260b8 h1:MBcc2dC7KqmBSxs2Nvra9XoNBixiXNlIamevSaZX8UA=
+github.com/orbit-online/libdns-inwx v0.0.0-20260317114442-e98697a260b8/go.mod h1:kUBDmTXFGY8BqpHRJOWQ+GYfFnJOeejKeJHhnVliUb8=
 github.com/ovh/go-ovh v1.7.0 h1:V14nF7FwDjQrZt9g7jzcvAAQ3HN6DNShRFRMC3jLoPw=
 github.com/ovh/go-ovh v1.7.0/go.mod h1:cTVDnl94z4tl8pP1uZ/8jlVxntjSIf09bNcQ5TJSC7c=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
