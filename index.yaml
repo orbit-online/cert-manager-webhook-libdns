@@ -2,8 +2,32 @@ apiVersion: v1
 entries:
   libdns-webhook:
   - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2026-09-15T10:53:24.711667893Z"
+    description: A cert-manager webhook for DNS-01 challenges using libdns providers
+    digest: 00539781cc6a26da8737de6665aa2752d256e2adf39b24bf1757b87104e1f9e2
+    home: https://github.com/git001/cert-manager-webhook-libdns
+    keywords:
+    - cert-manager
+    - webhook
+    - dns01
+    - libdns
+    - acme
+    - letsencrypt
+    maintainers:
+    - email: al-git001@none.at
+      name: git001
+    name: libdns-webhook
+    sources:
+    - https://github.com/git001/cert-manager-webhook-libdns
+    - https://github.com/libdns/libdns
+    type: application
+    urls:
+    - https://git001.github.io/cert-manager-webhook-libdns/libdns-webhook-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
     appVersion: 1.1.1
-    created: "2026-09-15T10:37:00.560922658Z"
+    created: "2026-09-15T10:53:24.711309197Z"
     description: A cert-manager webhook for DNS-01 challenges using libdns providers
     digest: 21ac11f37a02d96133de711330ba21c5abdaad2bacbcd1cac9b7699dcc489610
     home: https://github.com/git001/cert-manager-webhook-libdns
@@ -25,4 +49,4 @@ entries:
     urls:
     - https://git001.github.io/cert-manager-webhook-libdns/libdns-webhook-1.1.1.tgz
     version: 1.1.1
-generated: "2026-09-15T10:37:00.560347949Z"
+generated: "2026-09-15T10:53:24.710801634Z"
