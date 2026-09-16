@@ -1,6 +1,6 @@
 module github.com/cert-manager-webhook-libdns
 
-go 1.26
+go 1.25.5
 
 require (
 	github.com/cert-manager/cert-manager v1.16.2
