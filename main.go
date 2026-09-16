@@ -293,6 +293,7 @@ func (s *libdnsSolver) getProvider(ch *v1alpha1.ChallengeRequest) (libdnsregistr
 	if err != nil {
 		return nil, "", 0, fmt.Errorf("failed to marshal credentials as json: %w", err)
 	}
+	klog.Infof("%s", confs)
 	provider, err := libdnsregistry.New(cfg.Provider, [][]byte{confs})
 	if err != nil {
 		return nil, "", 0, fmt.Errorf("failed to create %s provider: %w", cfg.Provider, err)
